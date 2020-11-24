@@ -1,0 +1,25 @@
+#input
+    este es un mensaje de prueba
+#output
+    es
+    de
+    este
+    mensaje
+    prueba
+    un
+#endtest
+
+#input
+    hay golpes en la vida,tan fuertes.yo no se
+#output
+    en
+    fuertes
+    golpes
+    hay
+    la
+    no
+    se
+    tan
+    vida
+    yo
+#endtest

@@ -1,0 +1,38 @@
+#input
+    3
+    Producto 1
+    S
+    3.6
+    100
+    Producto 2
+    D
+    3.0
+    150
+    Producto 3
+    S
+    3.5
+    200
+    S
+#output
+    Producto 1 - 100
+    Producto 2 - 50
+    Producto 3 - 200
+    Total = 350
+#endtest
+
+#input
+    2
+    Camisa
+    D
+    3.6
+    200
+    Pantalon
+    S
+    3.5
+    105
+    D
+#output
+    Camisa - 200
+    Pantalon - 30
+    Total = 230
+#endtest
